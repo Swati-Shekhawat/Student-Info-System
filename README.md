@@ -13,9 +13,7 @@ Technologies used:
 2. Backend: PHP for server-side processing and logic.
 3. Database: MYSQL to store and manage student data.
 
-Team Members Name: Swati Shekhawat
-                   Saloni Yadav
-                   Lokesh Yadav
+Team Members Name: Swati Shekhawat , Saloni Yadav , Lokesh Yadav
 
     
               
